@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5d3ddc1c-488f-4511-8cc6-bc86545a1d82": {
+      "ProjectGuid": "5d3ddc1c-488f-4511-8cc6-bc86545a1d82",
+      "DisplayName": "WASender",
+      "ColorIndex": 0
+    },
+    "a93a36a5-cae5-4eff-a582-87cd1dd5f6e6": {
+      "ProjectGuid": "a93a36a5-cae5-4eff-a582-87cd1dd5f6e6",
+      "DisplayName": "WaSenderKeyGen",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}

@@ -1,0 +1,3 @@
+Change Log - 2.4.7 (17 June 2022)
+----------------------------------
+* Bug Fixes and performance improvements

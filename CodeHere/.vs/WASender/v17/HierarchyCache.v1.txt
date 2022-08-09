@@ -1,0 +1,620 @@
+﻿++Solution 'WASender' ‎(2 of 3 projects)
+i:{00000000-0000-0000-0000-000000000000}:WASender.sln
+++WaSenderSetUp (incompatible)
+i:{00000000-0000-0000-0000-000000000000}:WaSenderSetUp
+++WaSenderKeyGen
+i:{00000000-0000-0000-0000-000000000000}:WaSenderKeyGen
+++Properties
+i:{a93a36a5-cae5-4eff-a582-87cd1dd5f6e6}:e:\projects\microsoft\wa marketing whats\codehere\wasenderkeygen\properties\
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\properties\
+++References
+i:{a93a36a5-cae5-4eff-a582-87cd1dd5f6e6}:
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:
+++App.config
+i:{a93a36a5-cae5-4eff-a582-87cd1dd5f6e6}:e:\projects\microsoft\wa marketing whats\codehere\wasenderkeygen\app.config
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\app.config
+++Dtafalonso-Modern-Xp-ModernXP-07-Keys.ico
+i:{a93a36a5-cae5-4eff-a582-87cd1dd5f6e6}:e:\projects\microsoft\wa marketing whats\codehere\wasenderkeygen\dtafalonso-modern-xp-modernxp-07-keys.ico
+++FingerPrint.cs
+i:{a93a36a5-cae5-4eff-a582-87cd1dd5f6e6}:e:\projects\microsoft\wa marketing whats\codehere\wasenderkeygen\fingerprint.cs
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\security\fingerprint.cs
+++Form1.cs
+i:{a93a36a5-cae5-4eff-a582-87cd1dd5f6e6}:e:\projects\microsoft\wa marketing whats\codehere\wasenderkeygen\form1.cs
+++Program.cs
+i:{a93a36a5-cae5-4eff-a582-87cd1dd5f6e6}:e:\projects\microsoft\wa marketing whats\codehere\wasenderkeygen\program.cs
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\program.cs
+++AssemblyInfo.cs
+i:{a93a36a5-cae5-4eff-a582-87cd1dd5f6e6}:e:\projects\microsoft\wa marketing whats\codehere\wasenderkeygen\properties\assemblyinfo.cs
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\properties\assemblyinfo.cs
+++Resources.resx
+i:{a93a36a5-cae5-4eff-a582-87cd1dd5f6e6}:e:\projects\microsoft\wa marketing whats\codehere\wasenderkeygen\properties\resources.resx
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\properties\resources.resx
+++Settings.settings
+i:{a93a36a5-cae5-4eff-a582-87cd1dd5f6e6}:e:\projects\microsoft\wa marketing whats\codehere\wasenderkeygen\properties\settings.settings
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\properties\settings.settings
+++Microsoft.CSharp
+i:{a93a36a5-cae5-4eff-a582-87cd1dd5f6e6}:
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:
+++Newtonsoft.Json
+i:{a93a36a5-cae5-4eff-a582-87cd1dd5f6e6}:
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:
+++System
+i:{a93a36a5-cae5-4eff-a582-87cd1dd5f6e6}:
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:
+++System.Core
+i:{a93a36a5-cae5-4eff-a582-87cd1dd5f6e6}:
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:
+++System.Data
+i:{a93a36a5-cae5-4eff-a582-87cd1dd5f6e6}:
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:
+++System.Data.DataSetExtensions
+i:{a93a36a5-cae5-4eff-a582-87cd1dd5f6e6}:
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:
+++System.Deployment
+i:{a93a36a5-cae5-4eff-a582-87cd1dd5f6e6}:
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:
+++System.Drawing
+i:{a93a36a5-cae5-4eff-a582-87cd1dd5f6e6}:
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:
+++System.Management
+i:{a93a36a5-cae5-4eff-a582-87cd1dd5f6e6}:
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:
+++System.Windows.Forms
+i:{a93a36a5-cae5-4eff-a582-87cd1dd5f6e6}:
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:
+++System.Xml
+i:{a93a36a5-cae5-4eff-a582-87cd1dd5f6e6}:
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:
+++System.Xml.Linq
+i:{a93a36a5-cae5-4eff-a582-87cd1dd5f6e6}:
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:
+++Form1.Designer.cs
+i:{a93a36a5-cae5-4eff-a582-87cd1dd5f6e6}:e:\projects\microsoft\wa marketing whats\codehere\wasenderkeygen\form1.designer.cs
+++Form1.resx
+i:{a93a36a5-cae5-4eff-a582-87cd1dd5f6e6}:e:\projects\microsoft\wa marketing whats\codehere\wasenderkeygen\form1.resx
+++Resources.Designer.cs
+i:{a93a36a5-cae5-4eff-a582-87cd1dd5f6e6}:e:\projects\microsoft\wa marketing whats\codehere\wasenderkeygen\properties\resources.designer.cs
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\properties\resources.designer.cs
+++Settings.Designer.cs
+i:{a93a36a5-cae5-4eff-a582-87cd1dd5f6e6}:e:\projects\microsoft\wa marketing whats\codehere\wasenderkeygen\properties\settings.designer.cs
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\properties\settings.designer.cs
+++WASender
+i:{00000000-0000-0000-0000-000000000000}:WASender
+++Alerts
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\alerts\
+++bin
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\bin\
+++CustomInputs
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\custominputs\
+++Database
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\database\
+++enums
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\enums\
+++languages
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\languages\
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\bin\debug\languages\
+++Models
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\models\
+++obj
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\obj\
+++Resources
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\resources\
+++Security
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\security\
+++Validators
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\validators\
+++Activate.cs
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\activate.cs
+++AddKeyMarker.cs
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\addkeymarker.cs
+++AddMessage.cs
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\addmessage.cs
+++AddRule.cs
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\addrule.cs
+++AutomationCommon.cs
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\automationcommon.cs
+++ComboboxItem.cs
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\comboboxitem.cs
+++Config.cs
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\config.cs
+++ContactGrabber.cs
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\contactgrabber.cs
+++CountryCodeInput.cs
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\countrycodeinput.cs
+++GeneralSettings.cs
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\generalsettings.cs
+++GetGroupMember.cs
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\getgroupmember.cs
+++GMapExtractor.cs
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\gmapextractor.cs
+++GrabChatList.cs
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\grabchatlist.cs
+++GrabGroupActiveMembers.cs
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\grabgroupactivemembers.cs
+++GrabGroupLinks.cs
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\grabgrouplinks.cs
+++GroupsJoiner.cs
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\groupsjoiner.cs
+++KeyMarker.cs
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\keymarker.cs
+++Logger.cs
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\logger.cs
+++Logo2.ico
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\logo2.ico
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\resources\logo2.ico
+++Logo3.ico
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\logo3.ico
+++MyMaterialForm.cs
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\mymaterialform.cs
+++MyMaterialPopOp.cs
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\mymaterialpopop.cs
+++NumberFilter.cs
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\numberfilter.cs
+++RunGroup.cs
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\rungroup.cs
+++RunSingle.cs
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\runsingle.cs
+++sha.pfx
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\sha.pfx
+++Strings.cs
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\strings.cs
+++Utils.cs
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\utils.cs
+++WaAutoReplyForm.cs
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\waautoreplyform.cs
+++WaSenderForm.cs
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\wasenderform.cs
+++XPathStore.cs
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\xpathstore.cs
+++EPPlus
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:
+++FluentValidation
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:
+++MaterialSkin
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:
+++Microsoft.IO.RecyclableMemoryStream
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:
+++PresentationCore
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:
+++System.ComponentModel.Annotations
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:
+++System.ComponentModel.DataAnnotations
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:
+++System.configuration
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:
+++System.Design
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:
+++System.Net.Http
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:
+++System.Security
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:
+++System.Threading.Tasks
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:
+++System.Web
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:
+++System.Web.Extensions
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:
+++System.Web.Helpers
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:
+++WebDriver
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:
+++Alert.cs
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\alerts\alert.cs
+++Debug
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\bin\debug\
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\obj\debug\
+++Release
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\bin\release\
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\obj\release\
+++Int32TextBox.cs
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\custominputs\int32textbox.cs
+++CampaignStatusENum.cs
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\enums\campaignstatusenum.cs
+++InitStatusEnum.cs
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\enums\initstatusenum.cs
+++OperatorsEnum.cs
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\enums\operatorsenum.cs
+++SendStatusEnum.cs
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\enums\sendstatusenum.cs
+++ActivationModel.cs
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\models\activationmodel.cs
+++ActiveMemberModel.cs
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\models\activemembermodel.cs
+++Base.cs
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\models\base.cs
+++ContactModel.cs
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\models\contactmodel.cs
+++DialogResultModel.cs
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\models\dialogresultmodel.cs
+++FilesModel.cs
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\models\filesmodel.cs
+++GeneralSettingsModel.cs
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\models\generalsettingsmodel.cs
+++GMapModel.cs
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\models\gmapmodel.cs
+++GroupModel.cs
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\models\groupmodel.cs
+++LanguageModel.cs
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\models\languagemodel.cs
+++MesageModel.cs
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\models\mesagemodel.cs
+++MessageModel.cs
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\models\messagemodel.cs
+++ParameterModel.cs
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\models\parametermodel.cs
+++RuleTransactionModel.cs
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\models\ruletransactionmodel.cs
+++SendStatusModel.cs
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\models\sendstatusmodel.cs
+++SingleSettingModel.cs
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\models\singlesettingmodel.cs
+++WASenderGroupTransModel.cs
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\models\wasendergrouptransmodel.cs
+++WASenderSingleTransModel.cs
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\models\wasendersingletransmodel.cs
+++01.png
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\resources\01.png
+++02.png
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\resources\02.png
+++error.png
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\resources\error.png
+++file-download.png
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\resources\file-download.png
+++icons8_add_new_24px.png
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\resources\icons8_add_new_24px.png
+++icons8_add_new_24px1.png
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\resources\icons8_add_new_24px1.png
+++icons8_ask_question_24px.png
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\resources\icons8_ask_question_24px.png
+++icons8_automatic_24px.png
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\resources\icons8_automatic_24px.png
+++icons8_cancel_25px_1.png
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\resources\icons8_cancel_25px_1.png
+++icons8_close_window_24px.png
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\resources\icons8_close_window_24px.png
+++icons8_Delete_24px.png
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\resources\icons8_delete_24px.png
+++icons8_email_send_24px.png
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\resources\icons8_email_send_24px.png
+++icons8_erase_24px.png
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\resources\icons8_erase_24px.png
+++icons8_export_48px.png
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\resources\icons8_export_48px.png
+++icons8_external_link_24px.png
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\resources\icons8_external_link_24px.png
+++icons8_full_stop_24px.png
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\resources\icons8_full_stop_24px.png
+++icons8_full_stop_24px1.png
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\resources\icons8_full_stop_24px1.png
+++icons8_import_48px.png
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\resources\icons8_import_48px.png
+++icons8_info_48px.png
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\resources\icons8_info_48px.png
+++icons8_linking_24px.png
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\resources\icons8_linking_24px.png
+++icons8_maintenance_48px.png
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\resources\icons8_maintenance_48px.png
+++icons8_manual_24px.png
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\resources\icons8_manual_24px.png
+++icons8_manual_24px_1.png
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\resources\icons8_manual_24px_1.png
+++icons8_manual_48px.png
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\resources\icons8_manual_48px.png
+++icons8_manual_48px1.png
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\resources\icons8_manual_48px1.png
+++icons8_manual_48px2.png
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\resources\icons8_manual_48px2.png
+++icons8_microsoft_excel_24px.png
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\resources\icons8_microsoft_excel_24px.png
+++icons8_number_1_48px_1.png
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\resources\icons8_number_1_48px_1.png
+++icons8_pause_24px.png
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\resources\icons8_pause_24px.png
+++icons8_play_24px.png
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\resources\icons8_play_24px.png
+++icons8_private_24px.png
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\resources\icons8_private_24px.png
+++icons8_save_24px.png
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\resources\icons8_save_24px.png
+++icons8_settings_24px.png
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\resources\icons8_settings_24px.png
+++icons8_software_installer_24px.png
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\resources\icons8_software_installer_24px.png
+++icons8_xls_export_48px.png
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\resources\icons8_xls_export_48px.png
+++n1.png
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\resources\n1.png
+++nn1.png
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\resources\nn1.png
+++nn2.png
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\resources\nn2.png
+++nn3.png
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\resources\nn3.png
+++success.png
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\resources\success.png
+++success1.png
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\resources\success1.png
+++success2.png
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\resources\success2.png
+++warning.png
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\resources\warning.png
+++ContactModelValidator.cs
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\validators\contactmodelvalidator.cs
+++GroupModelValidator.cs
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\validators\groupmodelvalidator.cs
+++MessageModelValidator.cs
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\validators\messagemodelvalidator.cs
+++RuleTransactionModelValidator.cs
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\validators\ruletransactionmodelvalidator.cs
+++SingleSettingModelValidator.cs
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\validators\singlesettingmodelvalidator.cs
+++WASenderGroupTransModelValidator.cs
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\validators\wasendergrouptransmodelvalidator.cs
+++WASenderSingleTransModelValidator.cs
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\validators\wasendersingletransmodelvalidator.cs
+++Activate.Designer.cs
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\activate.designer.cs
+++Activate.resx
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\activate.resx
+++AddKeyMarker.Designer.cs
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\addkeymarker.designer.cs
+++AddKeyMarker.resx
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\addkeymarker.resx
+++AddMessage.Designer.cs
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\addmessage.designer.cs
+++AddMessage.resx
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\addmessage.resx
+++AddRule.Designer.cs
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\addrule.designer.cs
+++AddRule.resx
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\addrule.resx
+++ContactGrabber.Designer.cs
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\contactgrabber.designer.cs
+++ContactGrabber.resx
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\contactgrabber.resx
+++CountryCodeInput.Designer.cs
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\countrycodeinput.designer.cs
+++CountryCodeInput.resx
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\countrycodeinput.resx
+++GeneralSettings.Designer.cs
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\generalsettings.designer.cs
+++GeneralSettings.resx
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\generalsettings.resx
+++GetGroupMember.Designer.cs
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\getgroupmember.designer.cs
+++GetGroupMember.resx
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\getgroupmember.resx
+++GMapExtractor.Designer.cs
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\gmapextractor.designer.cs
+++GMapExtractor.resx
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\gmapextractor.resx
+++GrabChatList.Designer.cs
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\grabchatlist.designer.cs
+++GrabChatList.resx
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\grabchatlist.resx
+++GrabGroupActiveMembers.Designer.cs
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\grabgroupactivemembers.designer.cs
+++GrabGroupActiveMembers.resx
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\grabgroupactivemembers.resx
+++GrabGroupLinks.Designer.cs
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\grabgrouplinks.designer.cs
+++GrabGroupLinks.resx
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\grabgrouplinks.resx
+++GroupsJoiner.Designer.cs
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\groupsjoiner.designer.cs
+++GroupsJoiner.resx
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\groupsjoiner.resx
+++KeyMarker.Designer.cs
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\keymarker.designer.cs
+++KeyMarker.resx
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\keymarker.resx
+++NumberFilter.Designer.cs
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\numberfilter.designer.cs
+++NumberFilter.resx
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\numberfilter.resx
+++RunGroup.Designer.cs
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\rungroup.designer.cs
+++RunGroup.resx
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\rungroup.resx
+++RunSingle.Designer.cs
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\runsingle.designer.cs
+++RunSingle.resx
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\runsingle.resx
+++WaAutoReplyForm.Designer.cs
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\waautoreplyform.designer.cs
+++WaAutoReplyForm.resx
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\waautoreplyform.resx
+++WaSenderForm.aa.resx
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\wasenderform.aa.resx
+++WaSenderForm.Designer.cs
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\wasenderform.designer.cs
+++WaSenderForm.en.resx
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\wasenderform.en.resx
+++WaSenderForm.resx
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\wasenderform.resx
+++Alert.Designer.cs
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\alerts\alert.designer.cs
+++Alert.resx
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\alerts\alert.resx
+++aa
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\bin\debug\aa\
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\bin\release\aa\
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\obj\release\aa\
+++chromedriver
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\bin\debug\chromedriver\
+++en
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\bin\debug\en\
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\bin\release\en\
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\obj\release\en\
+++HelpDocs
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\bin\debug\helpdocs\
+++Reports
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\bin\debug\reports\
+++temp
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\bin\debug\temp\
+++templets
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\bin\debug\templets\
+++x64
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\bin\debug\x64\
+++x86
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\bin\debug\x86\
+++ChatListTemplate.xlsx
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\bin\debug\chatlisttemplate.xlsx
+++chromedriver.exe
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\bin\debug\chromedriver.exe
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\bin\debug\chromedriver\chromedriver.exe
+++db.db
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\bin\debug\db.db
+++EPPlus.dll
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\bin\debug\epplus.dll
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\bin\release\epplus.dll
+++FluentValidation.dll
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\bin\debug\fluentvalidation.dll
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\bin\release\fluentvalidation.dll
+++GroupSenderTemplate.xlsx
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\bin\debug\groupsendertemplate.xlsx
+++MaterialSkin.dll
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\bin\debug\materialskin.dll
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\bin\release\materialskin.dll
+++MemberListTemplate.xlsx
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\bin\debug\memberlisttemplate.xlsx
+++Microsoft.IO.RecyclableMemoryStream.dll
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\bin\debug\microsoft.io.recyclablememorystream.dll
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\bin\release\microsoft.io.recyclablememorystream.dll
+++Newtonsoft.Json.dll
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\bin\debug\newtonsoft.json.dll
+++System.ComponentModel.Annotations.dll
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\bin\debug\system.componentmodel.annotations.dll
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\bin\release\system.componentmodel.annotations.dll
+++WASender.exe
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\bin\debug\wasender.exe
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\bin\release\wasender.exe
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\obj\release\wasender.exe
+++WASender.exe.config
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\bin\debug\wasender.exe.config
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\bin\release\wasender.exe.config
+++WASender.pdb
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\bin\debug\wasender.pdb
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\bin\release\wasender.pdb
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\obj\release\wasender.pdb
+++WASender.vshost.exe
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\bin\debug\wasender.vshost.exe
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\bin\release\wasender.vshost.exe
+++WASender.vshost.exe.config
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\bin\debug\wasender.vshost.exe.config
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\bin\release\wasender.vshost.exe.config
+++WASender.vshost.exe.manifest
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\bin\debug\wasender.vshost.exe.manifest
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\bin\release\wasender.vshost.exe.manifest
+++WASender.zip
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\bin\debug\wasender.zip
+++WebDriver.dll
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\bin\debug\webdriver.dll
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\bin\release\webdriver.dll
+++.NETFramework,Version=v4.8.AssemblyAttributes.cs
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\obj\debug\.netframework,version=v4.8.assemblyattributes.cs
+++eazfuscator_cache
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\obj\release\eazfuscator_cache\
+++TempPE
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\obj\release\temppe\
+++DesignTimeResolveAssemblyReferences.cache
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\obj\release\designtimeresolveassemblyreferences.cache
+++DesignTimeResolveAssemblyReferencesInput.cache
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\obj\release\designtimeresolveassemblyreferencesinput.cache
+++TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\obj\release\temporarygeneratedfile_036c0b5b-1481-4323-8d20-8f5adcb23d92.cs
+++TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\obj\release\temporarygeneratedfile_5937a670-0e60-4077-877b-f7221da3dda1.cs
+++TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\obj\release\temporarygeneratedfile_e7a71f73-0f8d-4b9b-b56e-8e70b10bc5d3.cs
+++WASender.Alerts.Alert.resources
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\obj\release\wasender.alerts.alert.resources
+++WASender.csproj.FileListAbsolute.txt
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\obj\release\wasender.csproj.filelistabsolute.txt
+++WASender.csproj.GenerateResource.Cache
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\obj\release\wasender.csproj.generateresource.cache
+++WASender.csprojResolveAssemblyReference.cache
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\obj\release\wasender.csprojresolveassemblyreference.cache
+++WASender.GetGroupMember.resources
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\obj\release\wasender.getgroupmember.resources
+++WASender.GrabChatList.resources
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\obj\release\wasender.grabchatlist.resources
+++WASender.GrabGroupLinks.resources
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\obj\release\wasender.grabgrouplinks.resources
+++WASender.Properties.Resources.resources
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\obj\release\wasender.properties.resources.resources
+++WASender.RunGroup.resources
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\obj\release\wasender.rungroup.resources
+++WASender.RunSingle.resources
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\obj\release\wasender.runsingle.resources
+++WASender.WaSenderForm.aa.resources
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\obj\release\wasender.wasenderform.aa.resources
+++WASender.WaSenderForm.en.resources
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\obj\release\wasender.wasenderform.en.resources
+++WASender.WaSenderForm.resources
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\obj\release\wasender.wasenderform.resources
+++WASender.resources.dll
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\bin\debug\aa\wasender.resources.dll
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\bin\debug\en\wasender.resources.dll
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\bin\release\aa\wasender.resources.dll
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\bin\release\en\wasender.resources.dll
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\obj\release\aa\wasender.resources.dll
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\obj\release\en\wasender.resources.dll
+++images
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\bin\debug\helpdocs\images\
+++chromeprofile.html
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\bin\debug\helpdocs\chromeprofile.html
+++Arabic.json
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\bin\debug\languages\arabic.json
+++Chinese.json
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\bin\debug\languages\chinese.json
+++Dutch.json
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\bin\debug\languages\dutch.json
+++English.json
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\bin\debug\languages\english.json
+++French.json
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\bin\debug\languages\french.json
+++German.json
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\bin\debug\languages\german.json
+++Greek.json
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\bin\debug\languages\greek.json
+++Gujarati.json
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\bin\debug\languages\gujarati.json
+++Hebrew.json
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\bin\debug\languages\hebrew.json
+++Hindi.json
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\bin\debug\languages\hindi.json
+++Indonesian.json
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\bin\debug\languages\indonesian.json
+++Italian.json
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\bin\debug\languages\italian.json
+++Japanese.json
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\bin\debug\languages\japanese.json
+++Portuguese.json
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\bin\debug\languages\portuguese.json
+++Russian.json
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\bin\debug\languages\russian.json
+++Spanish.json
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\bin\debug\languages\spanish.json
+++Urdu.json
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\bin\debug\languages\urdu.json
+++SingleSenderTemplate.csv
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\bin\debug\templets\singlesendertemplate.csv
+++SingleSenderTemplate.xls
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\bin\debug\templets\singlesendertemplate.xls
+++SingleSenderTemplate.xlsx
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\bin\debug\templets\singlesendertemplate.xlsx
+++SQLite.Interop.dll
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\bin\debug\x64\sqlite.interop.dll
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\bin\debug\x86\sqlite.interop.dll
+++sqlite3.dll
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\bin\debug\x64\sqlite3.dll
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\bin\debug\x86\sqlite3.dll
+++$packaging
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\obj\release\eazfuscator_cache\$packaging\
+++Properties.Resources.Designer.cs.dll
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\obj\release\temppe\properties.resources.designer.cs.dll
+++NewOutputFilePaths.SA.txt
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\obj\release\eazfuscator_cache\$packaging\newoutputfilepaths.sa.txt
+++RemovedReferencePaths.txt
+i:{5d3ddc1c-488f-4511-8cc6-bc86545a1d82}:e:\projects\microsoft\wa marketing whats\codehere\wasender\obj\release\eazfuscator_cache\$packaging\removedreferencepaths.txt
